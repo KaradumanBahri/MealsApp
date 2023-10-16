@@ -1,11 +1,9 @@
 # MealsApp
 
-A new Flutter project.
-
-## Getting Started
 
   We have created a Meals application that allows users to browse various food categories, select meals, read meal content and instructions, mark meals as favorites, switch between all meals and favorite meals. Additionally, users can navigate to a completely different page where various filters can be set to display meals in the Meals section. We have added both explicit and implicit animations.
 We simplified state management using a third-party package called Riverpod.
+
 
 
 ![Ekran görüntüsü 2023-10-16 165406](https://github.com/KaradumanBahri/MealsApp/assets/46449677/4af1fe86-5487-46e8-9237-cbd2b44757a6)
